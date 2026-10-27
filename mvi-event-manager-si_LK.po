@@ -1,0 +1,97 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: MVI Event & Workshop Manager\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-09-30 17:32+0000\n"
+"PO-Revision-Date: 2026-09-30 17:42+0000\n"
+"Last-Translator: \n"
+"Language-Team: Sinhala\n"
+"Language: si_LK\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.8.9; wp-7.1.2; php-8.2.12\n"
+"X-Domain: mvi-event-manager"
+
+#: mvi-event-manager.php:338
+msgid "An error occurred during registration."
+msgstr ""
+
+#: mvi-event-manager.php:246
+msgid "Confirm Registration"
+msgstr "ලියාපදිංචිය තහවුරු කරන්න"
+
+#: mvi-event-manager.php:190
+msgid "Date:"
+msgstr "දිනය:"
+
+#: mvi-event-manager.php:242
+msgid "e.g., K. M. V. Indumina"
+msgstr "උදා: K. M. V. ඉන්දුමින"
+
+#: mvi-event-manager.php:243
+msgid "e.g., STU-2026-001"
+msgstr "උදා: STU-2026-001"
+
+#: mvi-event-manager.php:244
+msgid "Email Address"
+msgstr "විද්‍යුත් තැපැල් ලිපිනය"
+
+#: mvi-event-manager.php:242
+msgid "Full Name"
+msgstr "සම්පූර්ණ නම"
+
+#. URI of the plugin
+msgid "https://github.com/yourusername/mvi-event-manager"
+msgstr ""
+
+#: mvi-event-manager.php:192
+msgid "Location:"
+msgstr "ස්ථානය:"
+
+#. Author of the plugin
+msgid "Malindu Indumina"
+msgstr ""
+
+#. Name of the plugin
+msgid "MVI Event & Workshop Manager"
+msgstr ""
+
+#: mvi-event-manager.php:200
+msgid "No events are scheduled at the moment."
+msgstr "දැනට කිසිදු Event එකක් සැලසුම් කර නොමැත."
+
+#: mvi-event-manager.php:341
+msgid "Please fill in all the details."
+msgstr "කරුණාකර සියලුම විස්තර පුරවන්න."
+
+#: mvi-event-manager.php:232
+msgid "Register for this Event"
+msgstr "මෙම Event එක සඳහා ලියාපදිංචි වන්න"
+
+#: mvi-event-manager.php:336
+msgid "Registration Successful!"
+msgstr "ලියාපදිංචිය සාර්ථකයි!"
+
+#: mvi-event-manager.php:243
+msgid "Student ID"
+msgstr "ශිෂ්‍ය අංකය"
+
+#: mvi-event-manager.php:191
+msgid "Time:"
+msgstr "වේලාව:"
+
+#: mvi-event-manager.php:195
+msgid "View Details"
+msgstr "විස්තර බලන්න"
+
+#: mvi-event-manager.php:244
+msgid "Your active email address"
+msgstr "ඔබගේ සක්‍රීය ඊමේල් ලිපිනය"
+
+#. Description of the plugin
+msgid ""
+"විශ්වවිද්‍යාලයේ සිසුන්ගේ events සහ workshops කළමනාකරණය කිරීමට හැදූ ප්ලගිනයකි."
+msgstr ""
